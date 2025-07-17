@@ -105,26 +105,6 @@ http://localhost
 
 ---
 
-## 🌟 Future Enhancements
-
-- [x] Connect to MajidAPI for word lookups
-- [x] Display meanings and examples
-- [x] Implement nginx and Docker for deployment
-- [ ] Add support for Persian-to-English translations
-- [ ] Store search history for users
-- [ ] Implement user authentication
-- [ ] Add favoriting functionality for words
-- [ ] Enhance UI with Tailwind CSS
-- [ ] Add offline caching for recent searches
-
----
-
-## 📸 Project Screenshot
-
-> *Placeholder*: A screenshot will be added once the UI is finalized. Please provide an image file or specify a section for a screenshot.
-
----
-
 ## 🧪 Local Development (Without Docker)
 
 For quick testing without Docker:
