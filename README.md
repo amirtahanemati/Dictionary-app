@@ -1,4 +1,4 @@
-# 📖 Dictionary App — Persian Dictionary Powered by MajidAPI
+# 📖 Dictionary App — Persian Dictionary
 
 A lightweight, fast, and user-friendly online dictionary application built with **FastAPI**, **HTML/CSS/JS**, **Docker**, and **nginx**.  
 This project leverages the **MajidAPI** to provide meanings and examples for English words, with plans to support Persian and other languages.
