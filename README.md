@@ -137,7 +137,7 @@ python -m http.server 8080
 
 - **Lead Developer**: Amirtaha nemati
 - **GitHub**: [@amirtahanemati](https://github.com/amirtahanemati)
-- **Email**: amirtahanemar=ti0@gmail.com
+- **Email**: amirtahanemati0@gmail.com
 
 ---
 
