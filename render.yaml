@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: dictionary-app
+    env: docker
+    plan: free
+    repo: https://github.com/amirtahanemati/dictionary-app
+    branch: main
+    dockerfilePath: ./Dockerfile
+    buildCommand: docker-compose build
+    startCommand: docker-compose up
+    envVars:
+      - key: API_TOKEN
+        value: your-real-token-here
